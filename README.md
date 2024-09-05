@@ -1,4 +1,4 @@
 # my-first-repo
 
 https://www.zuyd.nl/
-![Alt text](IMG_0979.JPG)
+![image of goober](IMG_0979.JPG)
